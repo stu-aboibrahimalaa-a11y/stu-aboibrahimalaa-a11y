@@ -1,6 +1,6 @@
 <!-- Banner aestethic dark -->
 <p align="center">
-  <img src="Alaa Aboibrahim.jpg" width="70%" height"100px" alt="night sky banner">
+  <img src="Alaa Aboibrahim.jpg" width="70%" height"100%" alt="night sky banner">
 </p>
 
 <h1 align="center">🌙✨ Ciao, sono <strong>Alaa</strong> ✨🌙</h1>
