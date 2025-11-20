@@ -14,20 +14,14 @@
 
 ## 🖤 Chi sono
 Ciao! Sono **Alaa**, studio **informatica** e lavoro come **segretaria** in un’azienda.  
-Adoro imparare cose nuove, migliorarmi e creare piccoli progetti di cui andare fiera.
-
-Mi piace tutto ciò che è:  
-- ✨ elegante  
-- 🌙 dark  
-- 💻 tecnologico
-
+Adoro imparare cose nuove, migliorarmi e creare piccoli progetti.
 ---
 
 ## 🌸 Cosa sto imparando
 - 💡 Fondamenti di programmazione  
-- 🌐 Basi dello sviluppo web  
-- 📁 Organizzazione digitale  
-- 🧠 Logica e problem solving  
+- 🌐 programmazione ad oggetti   
+- 📁 puntatori  
+- 🧠 class vector  
 
 ---
 
@@ -49,13 +43,12 @@ Mi piace tutto ciò che è:
 ## 💌 Contatti
 Se vuoi connetterti con me:
 
-- 📧 Email: *aggiungi la tua email*
-- 💼 LinkedIn: *il tuo link qui*
+- 📧 Email: stu-aboibrahimalaa@itis-molinari.eu
 
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/3ZQ3Z4F.gif" width="200px" alt="stars">
+  <img src="batabit.jpg" width="200px" alt="stars">
 </p>
 
 <p align="center">🌑 Grazie per aver visitato il mio profilo GitHub! ✨</p>
